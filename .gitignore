@@ -31,7 +31,7 @@ guide
 *.so
 *.dll
 DerivedData
-
+.vs
 platform/java/local.properties
 platform/win32/*.user
 platform/win32/*.ncb
